@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RoomTask</string>
+    <string name="male">Male</string>
+    <string name="maxmobie">MaxMobie</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="gender">Gender</string>
+    <string name="company_name">Company Name</string>
+    <string name="gender_person">Gender Person</string>
+    <string name="companyfield">CompanyField</string>
+    <string name="company_field">Company Field</string>
+    <string name="sex">Sex</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name_room">Person Name</string>
+    <string name="address_room">Address</string>
+    <string name="save">Save</string>
+    <string name="address">Address</string>
+</resources>
